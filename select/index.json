@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Beanie",
+  "base_artist": "Chezile",
+  "createdAt": "2026-04-02T10:24:35.105044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adrenaline (Feat. Dice Raw & Beanie Sigel)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Adrenaline_(Feat._Dice_Raw_&_Beanie_Sigel)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do Your Time (feat. Beanie Sigel, Pimp C & C-Murder)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/02_Do_Your_Time_(feat._Beanie_Sigel,_Pimp_C_&_C-Murder)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The ROC (Just Fire) (feat. Memphis Bleek & Beanie Sigel)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/03_The_ROC_(Just_Fire)_(feat._Memphis_Bleek_&_Beanie_Sigel)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life (feat. Beanie Sigel)",
+      "artist": "Freeway",
+      "has_synced": true,
+      "path": "select/04_Life_(feat._Beanie_Sigel)_Freeway.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What We Do (feat. JAY-Z & Beanie Sigel)",
+      "artist": "Freeway",
+      "has_synced": true,
+      "path": "select/05_What_We_Do_(feat._JAY-Z_&_Beanie_Sigel)_Freeway.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What We Do... (Feat. Jay-Z and Beanie Sigel)",
+      "artist": "Freeway",
+      "has_synced": true,
+      "path": "select/06_What_We_Do..._(Feat._Jay-Z_and_Beanie_Sigel)_Freeway.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guess Who's Back (feat. JAY-Z & Beanie Sigel)",
+      "artist": "Scarface",
+      "has_synced": false,
+      "path": "select/07_Guess_Who's_Back_(feat._JAY-Z_&_Beanie_Sigel)_Scarface.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beanie G. And The Rose Tattoo",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/08_Beanie_G._And_The_Rose_Tattoo_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roc The Mic (Remix) With Freeway Beanie Sigel Murphy Lee",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/09_Roc_The_Mic_(Remix)_With_Freeway_Beanie_Sigel_Murphy_Lee_Nelly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Journey Through The Life feat. Nas, Beanie Sigel, Lil Kim And Joe Hooker",
+      "artist": "P. Diddy",
+      "has_synced": false,
+      "path": "select/10_Journey_Through_The_Life_feat._Nas,_Beanie_Sigel,_Lil_Kim_And_Joe_Hooker_P._Diddy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beanie G. And the Rose Tattoo (Live At the New Victoria Theatre, London, October 3, 1975)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/11_Beanie_G._And_the_Rose_Tattoo_(Live_At_the_New_Victoria_Theatre,_London,_October_Daryl_Hall_&_John_Oates.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beanie G. and the Rose Tattoo [#][Live]",
+      "artist": "Hall & Oates",
+      "has_synced": false,
+      "path": "select/12_Beanie_G._and_the_Rose_Tattoo_[_][Live]_Hall_&_Oates.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Before The Solution (feat. Beanie Sigel & Pooh Bear)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/13_Before_The_Solution_(feat._Beanie_Sigel_&_Pooh_Bear)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guess Who's Back (Feat. Jay-Z & Beanie Sigel)",
+      "artist": "Scarface",
+      "has_synced": true,
+      "path": "select/14_Guess_Who's_Back_(Feat._Jay-Z_&_Beanie_Sigel)_Scarface.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beanie Sigel & Dirt Mcgirt - When You Hear That",
+      "artist": "Ratatat",
+      "has_synced": true,
+      "path": "select/15_Beanie_Sigel_&_Dirt_Mcgirt_-_When_You_Hear_That_Ratatat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If I Should Die Before I Wake (feat. Black Rob, Ice Cube, & Beanie Sigel) - 2005 Remaster",
+      "artist": "The Notorious B.I.G. feat. Black Rob, Ice Cube & Beanie Sigel",
+      "has_synced": true,
+      "path": "select/16_If_I_Should_Die_Before_I_Wake_(feat._Black_Rob,_Ice_Cube,_&_Beanie_Sigel)_-_2005_The_Notorious_B.I.G._feat._Black_Rob,_Ice_Cube_&_Beanie_Sigel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If I Should Die Before I Wake (feat. Black Rob, Ice Cube, & Beanie Sigel)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/17_If_I_Should_Die_Before_I_Wake_(feat._Black_Rob,_Ice_Cube,_&_Beanie_Sigel)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lock Load (with Beanie Sigel)",
+      "artist": "Conway the Machine feat. Beanie Sigel",
+      "has_synced": true,
+      "path": "select/18_Lock_Load_(with_Beanie_Sigel)_Conway_the_Machine_feat._Beanie_Sigel.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ignorant Shit (feat. Beanie Sigel)",
+      "artist": "JAY‐Z",
+      "has_synced": true,
+      "path": "select/19_Ignorant_Shit_(feat._Beanie_Sigel)_JAY‐Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beanie",
+      "artist": "Chezile",
+      "has_synced": false,
+      "path": "select/pl_01_Beanie_Chezile.txt"
+    }
+  ]
+}
